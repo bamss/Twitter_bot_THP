@@ -14,4 +14,4 @@
  end
  
  # ligne qui permet de tweeter sur ton compte
- client.update('Mon premier tweet en Ruby avec mon Tonton !!!!')
+ client.update("On n'est pas chaud nous 🔥 #bonjour_monde !!!!" )
