@@ -17,5 +17,3 @@ client = Twitter::REST::Client.new do |config|
         @client.follow(tweet.user.screen_name)
     end
  end
-
- folow
